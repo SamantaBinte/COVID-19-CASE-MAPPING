@@ -8,7 +8,7 @@ Tooltips showing district names and case counts.
 Exportable as an HTML file for sharing and offline viewing.  
 **Requirements**  
 Python 3.x
-Libraries: folium, branca, numpy, geopandas 
+Libraries: folium, branca, numpy, geopandas   
 **Steps to Use**  
 Load your district-wise COVID-19 data in a GeoJSON-compatible format.
 Run the code to generate the interactive map.
